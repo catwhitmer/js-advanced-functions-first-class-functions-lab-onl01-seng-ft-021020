@@ -1,4 +1,2 @@
-const returnFirstTwoDrivers() {
-  const fn = function(array)
+const returnFirstTwoDrivers = function(array)
   return array[0, 1]
-}
