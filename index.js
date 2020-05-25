@@ -1,3 +1,3 @@
 const returnFirstTwoDrivers = function(drivers) {
-  return array[0, 1]
+  return drivers[0, 1]
 }
